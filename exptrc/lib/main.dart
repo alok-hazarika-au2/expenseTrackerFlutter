@@ -85,7 +85,7 @@ class MyHomePage extends StatelessWidget {
                         print(tittleController.text);
                         print(amountController.text);
                       },
-                      child: Text('Add Expense'),
+                      child: Text('Add an Expense'),
                       textColor: Colors.blue[300],
                     ),
                   ],
